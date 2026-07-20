@@ -1,0 +1,12 @@
+{
+  "name": "happybuy-optimizacion-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Panel de mantenimiento de categorias y precios para happybuyargentina.com (Tiendanube)",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node mantenimiento/server.js"
+  }
+}
