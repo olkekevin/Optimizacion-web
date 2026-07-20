@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.log
+mantenimiento/usuarios.json
+backups/*.json
+precio-efectivo/precios.json
